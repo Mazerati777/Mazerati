@@ -1,4 +1,4 @@
-##Meu nome é Joao Paulo Augusto
+##Meu nome é **Joao Paulo Augusto**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
